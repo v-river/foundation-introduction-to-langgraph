@@ -25,6 +25,7 @@ Graphs for LangSmith Studio are in the `module/studio/` folders.
 To start the local development server, run the following command in your terminal in the `/studio` directory each module:
 
 ```sh
+pip install -U "langgraph-cli[inmem]"
 langgraph dev
 ```
 
