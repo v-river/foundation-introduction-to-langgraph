@@ -1,6 +1,8 @@
 {
     "graphs": {
-        "simple_graph": "./simple.py:graph"
+        "simple_graph": "./simple.py:graph",
+        "router": "./router.py:graph",
+        "agent": "./agent.py:react_graph"
     },
     "env": "../../.env",
     "dependencies": [

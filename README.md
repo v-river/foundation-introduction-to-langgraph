@@ -36,3 +36,5 @@ You should see the following output:
 - 📚 API Docs: http://127.0.0.1:2024/docs
 
 Open your browser and navigate to the Studio UI: https://smith.langchain.com/studio/?baseUrl=http://127.0.0.1:2024
+
+> Reference: <https://github.com/langchain-ai/langchain-academy>
