@@ -1,6 +1,7 @@
 {
     "graphs": {
-        "agent": "./agent.py:graph"
+        "agent": "./agent.py:graph",
+        "dynamic-breakpoints": "./dynamic-breakpoints.py:graph"
     },
     "env": "../../.env",
     "dependencies": [

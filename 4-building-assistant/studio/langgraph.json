@@ -1,0 +1,9 @@
+{
+    "graphs": {
+        "parallelization": "./parallelization.py:graph"
+    },
+    "env": "../../.env",
+    "dependencies": [
+        "."
+    ]
+}
